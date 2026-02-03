@@ -1,4 +1,4 @@
-# <img src="./src/assets/logo-white.svg" alt="TokoFashion Logo" width="40" height="40" /> TokoFashion
+# <img src="./src/assets/logo-white.svg" alt="TokoFashion Logo" width="300" height="300" />
 
 > A modern, responsive e-commerce landing page template designed for fashion retail. Built with HTML5, styled with the utility-first power of Tailwind CSS, and enhanced with Flowbite components.
 
